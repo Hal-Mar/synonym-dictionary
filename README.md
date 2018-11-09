@@ -5,4 +5,8 @@
     - import nltk
     - nltk.download('wordnet')
 4. Execute the script
-Program that query Wordnet and find synonym for words
+
+The program performs the following tasks:
+1. Query Wordnet and find synonym for words.
+2. Prints the synonyms with a similarity score to the original word.
+3. Provides synonyms with respect to the parts of speech.
